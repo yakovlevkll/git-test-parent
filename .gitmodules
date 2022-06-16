@@ -1,0 +1,3 @@
+[submodule "nested/git-test-child"]
+	path = nested/git-test-child
+	url = https://github.com/yakovlevkll/git-test-child
